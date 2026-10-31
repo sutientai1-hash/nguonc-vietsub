@@ -1,0 +1,15 @@
+{
+  "name": "NguonC VietSub",
+  "description": "Experimental NguonC catalogue provider. Prefers servers labelled Vietsub; playback requires a player-compatible direct stream.",
+  "sources": [
+    {
+      "id": "nguonc-vietsub",
+      "name": "NguonC VietSub",
+      "version": "0.2.0",
+      "type": "anime",
+      "lang": "vi",
+      "file": "providers/nguonc.js",
+      "nsfw": false
+    }
+  ]
+}
